@@ -32,8 +32,8 @@ body {
 }
 
 .text-above {
-    top: -90px; /* Ajusta la posición vertical del texto arriba de la flor */
-font-size: 14px
+    top: -60px; /* Ajusta la posición vertical del texto arriba de la flor */
+font-size: 12px
 }
 
 .text-below {
