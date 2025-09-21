@@ -28,14 +28,16 @@ body {
     position: absolute;
     text-align: center;
     color: #fff; /* Color del texto */
-    font-size: 25px; /* Tamaño del texto */
+    
 }
 
 .text-above {
     top: -60px; /* Ajusta la posición vertical del texto arriba de la flor */
+font-size: 10px
 }
 
 .text-below {
+font-size: 25px; /* Tamaño del texto */
     bottom: -60px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 @keyframes pulsate {
